@@ -1,1 +1,1 @@
-composer require mongodb/mongodb
+run composer install
